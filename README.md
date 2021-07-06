@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/zanezo">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zane&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  <a href="https://zanzo.github.io">
+  <a href="https://zanezo.github.io">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zanezo&repo=zanezo.github.io&theme=algolia" />
   </a>
 </p>
